@@ -1,3 +1,3 @@
 from setuptools import setup
 
-setup(name='ecolib', version='2.19', packages=['ecolib'], package_dir={"": "src"})
+setup(name='ecolib', version='2.20', packages=['ecolib'], package_dir={"": "src"})
